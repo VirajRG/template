@@ -1,0 +1,15 @@
+.nav-wrapper {
+  padding:0 1.5rem;
+  height:100vh;
+  background-image:url('img/bg.jpg');
+  .navbar {
+    a {
+      color:#61daff;
+      padding:0.5rem auto;
+    }
+    a:hover {
+      color:#53bbdb;
+      background-color:transparent;
+    }
+  }
+}
